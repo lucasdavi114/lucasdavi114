@@ -5,6 +5,8 @@
 
 ![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasdavi114&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasdavi114&layout=compact&locale=pt-br)
+
 ## Tecnologias que uso:
 
 <div><br>
