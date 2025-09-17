@@ -3,15 +3,14 @@
 
 
 
-![Lucas GitHub stats]( https://github-readme-stats-sigma-five.vercel.app/api?username=lucasdavi114&show_icons=true)
+![Lucas GitHub stats]( https://github-readme-stats-sigma-five.vercel.app/api?username=lucasdavi114&show_icons=true&theme=merko)
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasdavi114&layout=compact&locale=pt-br)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasdavi114&layout=compact&locale=pt-br&theme=merko)
 
 ## Tecnologias que uso:
 
 <div><br>
     <img align="center" alt="Python" src = "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img align="center" alt="C++" src = "https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 </div><br>
 
 #### Graduando em Tecnológico em sistemas para Internet - TSI, IFSudeste-MG, Campos Barbacena
