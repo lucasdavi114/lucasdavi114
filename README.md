@@ -3,7 +3,7 @@
 
 
 
-![Lucas GitHub stats]( https://github-readme-stats-sigma-five.vercel.app/api?username=lucasdavi114&show_icons=true&theme=merko)
+[![Lucas GitHub stats](https://github-stats-extended.vercel.app/api?username=lucasdavi114&show_icons=true&theme=merko)](https://github.com/stats-organization/github-stats-extended)
 
 ![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lucasdavi114&layout=compact&locale=pt-br&theme=merko)
 
